@@ -27,7 +27,7 @@ This project is a Python-based script to scan and inventory devices on a network
 
 1. Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/network-inventory-tool.git
+   git clone https://github.com/rahman-mamun/n-map_my_scan_script.git
    cd network-inventory-tool
    ```
 
