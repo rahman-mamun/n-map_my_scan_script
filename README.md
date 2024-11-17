@@ -1,4 +1,4 @@
-# n-map_my_scan_script
+# n-map-my-scan-script
 Here's a basic example of a `README.md` file for your Git repository, tailored to your network inventory script:
 
 ---
